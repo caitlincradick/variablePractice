@@ -26,19 +26,19 @@
 var email = "hello@gmail.com"
 console.log(email)
 
-var email ="goodbye@gmail.com"
+email ="goodbye@gmail.com"
 console.log(email)
 
-var startingAge = "33"
+var startingAge = 33
 console.log(startingAge)
 
-var startingAge = "35"
+startingAge = 35
 console.log(startingAge)
 
-var depositPaid = "false"
+var depositPaid = false
 console.log(depositPaid)
 
-var depositPaid = "true"
+depositPaid =  true
 console.log(depositPaid)
 
 
