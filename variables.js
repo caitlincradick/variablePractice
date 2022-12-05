@@ -29,6 +29,13 @@ console.log(email)
 var email ="goodbye@gmail.com"
 console.log(email)
 
+var startingAge = "33"
+console.log(startingAge)
+
+var startingAge = "35"
+console.log(startingAge)
+
+
 
 
 
