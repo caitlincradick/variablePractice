@@ -35,6 +35,12 @@ console.log(startingAge)
 var startingAge = "35"
 console.log(startingAge)
 
+var depositPaid = "false"
+console.log(depositPaid)
+
+var depositPaid = "true"
+console.log(depositPaid)
+
 
 
 
